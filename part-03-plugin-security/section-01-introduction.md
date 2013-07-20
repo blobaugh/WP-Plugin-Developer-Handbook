@@ -1,3 +1,5 @@
+## Part Three: Plugin Security
+
 Your code works, but is it safe? Will it make your users love your plugin or hate it when it lets their site get hacked? The best plugins in the WordPress.org directory keep their users safe.
 
 When writing code to run across hundreds if not thousands of websites, you should be extra cautious of how your code is written. In particular, when building a settings page for your theme, creating and manipulating shortcodes, or saving and rendering extra data associated with a post.
