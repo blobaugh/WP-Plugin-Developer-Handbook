@@ -4,7 +4,7 @@ Hi! Thanks for checking out the WordPress Plugin Developer Handbook.
 
 Writing a plugin can be a useful way of extending WordPress to meet your functional requirements. The goal of the Plugin Developer Handbook is to be a comprehensive, but not definitive, resource for creating a WordPress plugin.
 
-**It will** address many best practices and common development projects.
+**It will** address many best practices and what you might do on common development projects.
 
 **It won't** answer every question you may come across while building your plugin.
 
