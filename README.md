@@ -12,4 +12,4 @@ If you find it useful, hopefully you'll set aside a bit of time to contribute ba
 
 ## How To Contribute
 
-@todo figure out how to best contribute
+As you see, the Plugin Developer Handbook is living in a Github repo. It also [lives on WordPress.org](http://make.wordpress.org/docs/plugin-developer-handbook/). The Github repo is an experiment to see if we can get more developers to contribute. Our hypothesis: because Git(hub) is quickly becoming an integral part of every developer's workflow, it's much easier to grok how to contribute documentation in small parts.
